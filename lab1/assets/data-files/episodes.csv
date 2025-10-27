@@ -1,0 +1,4 @@
+episode_id,podcast_id,title,description,duration_seconds,publication_date
+e1p2i3s4-1234-5678-9000-000000000001,p1o2d3c4-1234-5678-9000-000000000001,Interview with Elon Musk,Deep conversation about AI, SpaceX and the future,7545,2023-01-15 10:00:00
+e1p2i3s4-1234-5678-9000-000000000002,p1o2d3c4-1234-5678-9000-000000000001,Discussion with Mark Zuckerberg,Talk about Meta, virtual reality and social media,6820,2023-02-20 14:30:00
+e1p2i3s4-1234-5678-9000-000000000003,p1o2d3c4-1234-5678-9000-000000000002,AI Revolution 2023,Latest developments in artificial intelligence,1800,2023-03-10 09:00:00

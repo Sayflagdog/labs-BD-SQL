@@ -1,0 +1,16 @@
+user_id,email,username,registration_date,country_code
+u1b2c3d4-1234-5678-9000-000000000001,alice.johnson@email.com,alice_music,2023-01-15,US
+u1b2c3d4-1234-5678-9000-000000000002,bob.smith@email.com,bob_rocker,2023-01-16,UK
+u1b2c3d4-1234-5678-9000-000000000003,carol.white@email.com,carol_pop,2023-01-17,CA
+u1b2c3d4-1234-5678-9000-000000000004,david.brown@email.com,dave_electro,2023-01-18,DE
+u1b2c3d4-1234-5678-9000-000000000005,eva.green@email.com,eva_jazz,2023-01-19,FR
+u1b2c3d4-1234-5678-9000-000000000006,ivan.petrov@email.com,ivan_rus,2023-01-20,RU
+u1b2c3d4-1234-5678-9000-000000000007,maria.silva@email.com,maria_br,2023-01-21,BR
+u1b2c3d4-1234-5678-9000-000000000008,ken.watanabe@email.com,ken_jp,2023-01-22,JP
+u1b2c3d4-1234-5678-9000-000000000009,lisa.taylor@email.com,lisa_indie,2023-01-23,AU
+u1b2c3d4-1234-5678-9000-000000000010,mike.wilson@email.com,mike_hiphop,2023-01-24,US
+u1b2c3d4-1234-5678-9000-000000000011,sara.lee@email.com,sara_kpop,2023-01-25,KR
+u1b2c3d4-1234-5678-9000-000000000012,tom.chen@email.com,tom_cn,2023-01-26,CN
+u1b2c3d4-1234-5678-9000-000000000013,nina.rossi@email.com,nina_it,2023-01-27,IT
+u1b2c3d4-1234-5678-9000-000000000014,paul.garcia@email.com,paul_es,2023-01-28,ES
+u1b2c3d4-1234-5678-9000-000000000015,olga.ivanova@email.com,olga_ua,2023-01-29,UA
