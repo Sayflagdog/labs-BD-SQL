@@ -16,7 +16,7 @@ WHERE p.tracks_cnt > (SELECT avg_tracks FROM avg_cnt)
 ORDER BY p.tracks_cnt DESC, a.name;
 
 
-
+-- артисты у которых количество треков больше среднего по всем артистам
 
 
 

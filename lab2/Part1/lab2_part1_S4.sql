@@ -13,7 +13,8 @@ JOIN public.users u ON u.user_id = p.owner_id
 ORDER BY tracks_in_playlist DESC, p.created_at DESC;
 
 
-
+-- список всех плейлистов
+-- т.е кто владелец, сколько в плейлисте треков, публичный ли он, когда создан, а сортировка была по размеру плейлиста
 
 
 

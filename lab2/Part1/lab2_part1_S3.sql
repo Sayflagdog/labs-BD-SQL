@@ -11,3 +11,6 @@ LEFT JOIN public.listening_history lh
 GROUP BY u.user_id, u.username
 ORDER BY plays DESC, seconds_total DESC
 LIMIT 10;
+
+
+-- топ 10 пользователей по прослушиваниям за последние 7 дней (сколько раз включал что то и сколько секунд суммарно)
