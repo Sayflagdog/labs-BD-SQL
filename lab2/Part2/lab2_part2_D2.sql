@@ -16,3 +16,6 @@ INSERT INTO public.playlists (playlist_id, owner_id, title, is_public, created_a
 SELECT gen_random_uuid()::text, t.owner_id, t.title, FALSE, to_char(clock_timestamp(),'YYYY-MM-DD HH24:MI:SS')
 FROM t
 RETURNING playlist_id, owner_id, title, is_public;
+
+-- созданеие плейлиста Road Trip у alice_music
+-- в общем если есть уже такое название то просто создает с суффиксом даты/времени (чтобы не было дублей)

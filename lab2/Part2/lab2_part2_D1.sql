@@ -1,3 +1,5 @@
+-- создание и поиск плейлиста my Picks у alice_music
+
 WITH u AS (
   SELECT user_id FROM public.users WHERE username = 'alice_music' LIMIT 1
 ),
@@ -20,3 +22,5 @@ SELECT COALESCE(
     LIMIT 1)
 ) AS playlist_id;
 
+-- гарантирует что у  alice_music есть плейлист my picks и возвращает его playlist_id
+-- а если плейлиста не было то создаёт; если был то просто достаёт id
