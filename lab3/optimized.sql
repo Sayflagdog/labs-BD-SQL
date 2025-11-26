@@ -3,7 +3,7 @@ CREATE INDEX IF NOT EXISTS idx_tracks_genre_id
     ON tracks (genre_id);
 
 -- S2
-CREATE INDEX IF NOT EXISTS idx_episodes_publication_date
+CREATE INDEX IF NOT EXISTS idx_episodes_publication_date 
     ON episodes (publication_date DESC);
 
 -- S3 + W1
